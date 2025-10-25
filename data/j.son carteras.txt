@@ -1,0 +1,7 @@
+//carteras.json
+
+[
+  { "nombre": "Cartera Cuero Premium", "precio": 149.90, "imagen": "cuero_premium.jpg" },
+  { "nombre": "Cartera Urbana Negra", "precio": 119.50, "imagen": "urbana_negra.jpg" },
+  { "nombre": "Cartera Tote Beige", "precio": 129.00, "imagen": "tote_beige.jpg" }
+]

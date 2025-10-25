@@ -1,0 +1,7 @@
+//billeteras.json
+
+[
+  { "nombre": "Billetera de Cuero Negra", "precio": 89.90, "imagen": "cuero_negra.jpg" },
+  { "nombre": "Billetera Marrón Clásica", "precio": 79.50, "imagen": "marron_clasica.jpg" },
+  { "nombre": "Billetera Minimalista Azul", "precio": 69.00, "imagen": "minimalista_azul.jpg" }
+]

@@ -1,0 +1,7 @@
+//morrales.json
+
+[
+  { "nombre": "Morral Urbano Negro", "precio": 139.90, "imagen": "urbano_negro.jpg" },
+  { "nombre": "Morral Casual Marrón", "precio": 129.00, "imagen": "casual_marron.jpg" },
+  { "nombre": "Morral Deportivo Azul", "precio": 119.90, "imagen": "deportivo_azul.jpg" }
+]

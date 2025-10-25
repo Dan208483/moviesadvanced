@@ -1,0 +1,7 @@
+//bufandas.json
+
+[
+  { "nombre": "Bufanda de Lana Gris", "precio": 69.90, "imagen": "lana_gris.jpg" },
+  { "nombre": "Bufanda Roja Clásica", "precio": 59.50, "imagen": "roja_clasica.jpg" },
+  { "nombre": "Bufanda Cuadros Escoceses", "precio": 74.00, "imagen": "cuadros_escoceses.jpg" }
+]

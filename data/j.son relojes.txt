@@ -1,0 +1,7 @@
+//relojes.json
+
+[
+  { "nombre": "Reloj Clásico Negro", "precio": 189.90, "imagen": "clasico_negro.jpg" },
+  { "nombre": "Reloj Deportivo Azul", "precio": 159.00, "imagen": "deportivo_azul.jpg" },
+  { "nombre": "Reloj Elegante Dorado", "precio": 249.90, "imagen": "elegante_dorado.jpg" }
+]
